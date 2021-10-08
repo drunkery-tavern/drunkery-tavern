@@ -7,7 +7,7 @@
 - 😃 尚文学，喜编程
 - 🎈 涉猎网海四载有余
 - ✨ 阅经典之作而获益
-- 👏 自编软件而自乐
+- 👏 常自编软件而自娱
 - 🏃‍♂️ 喜交友，恶人不诚不正
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=drunkery-tavern&theme=dark)
