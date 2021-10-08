@@ -10,7 +10,6 @@
 - 👏 自编软件而自乐
 - 🏃‍♂️ 喜交友，恶人不诚不正
 
-//![Github Stats](https://github-readme-stats.vercel.app/api?username=drunkery-tavern&show_icons=true&theme=dark&count_private=true)
-
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=drunkery-tavern&theme=dark)
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=drunkery-tavern&show_icons=true&theme=dark&count_private=true)
