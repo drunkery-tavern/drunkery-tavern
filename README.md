@@ -13,7 +13,7 @@
 <a href="https://github.com/leveeer">
 
   <p align="left">
-    <img width="340px" src="https://github-profile-trophy.vercel.app/?username=leveeer&column=4&theme=onedark"/>
+    <img width="340px" src="https://github-profile-trophy.vercel.app/?username=leveeer&column=7&theme=onedark"/>
   </p>
 
 </a>
