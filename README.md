@@ -10,6 +10,17 @@
 - 👏 常自编软件而自娱
 - 🏃‍♂️ 喜交友，恶人不诚不正
 
-<img width="340px" src="https://github-profile-trophy.vercel.app/?username=leveeer&column=4&theme=onedark"/>
-<img width="340px" src="https://github-readme-stats.vercel.app/api?username=leveeer&theme=vue-dark&count_private=true&show_icons=true">
-<img width="340px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leveeer&theme=vue-dark&layout=compact">
+<a href="https://github.com/leveeer">
+
+  <p align="left">
+    <img width="340px" src="https://github-profile-trophy.vercel.app/?username=leveeer&column=4&theme=onedark"/>
+  </p>
+
+</a>
+
+
+<a href="https://github.com/leveeer">
+  <img align="right" width="340px" src="https://github-readme-stats.vercel.app/api?username=leveeer&theme=vue-dark&count_private=true&show_icons=true">
+  <img align="right" width="340px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leveeer&theme=vue-dark&layout=compact">
+</a>
+
