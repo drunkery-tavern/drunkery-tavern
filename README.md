@@ -18,4 +18,4 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=leveeer&show_icons=true&theme=dark&count_private=true)
 
 <img width="340px" src="https://github-readme-stats.vercel.app/api?username=leveeer&theme=vue-dark&count_private=true&show_icons=true">
-<img width="340px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leveeer&theme=vue-dark&layout=compact">
+<img width="340px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leveeer&theme=vue-dark">
