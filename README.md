@@ -10,9 +10,8 @@
 - 👏 常自编软件而自娱
 - 🏃‍♂️ 喜交友，恶人不诚不正
 
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=leveeer&column=7&theme=onedark"/>
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=leveeer&column=7&theme=onedark"/>
+
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leveeer&theme=dark)
 
