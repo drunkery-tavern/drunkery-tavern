@@ -16,9 +16,9 @@
 
 
 <a href="https://github.com/leveeer">
-   <img width="880px" src="https://github-readme-stats.vercel.app/api?username=leveeer&theme=vue-dark&count_private=true&show_icons=true">
+   <img width="880px" height="200px" src="https://github-readme-stats.vercel.app/api?username=leveeer&theme=vue-dark&count_private=true&show_icons=true">
 </a>
 
 <a href="https://github.com/leveeer">
-  <img width="880px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leveeer&theme=vue-dark&layout=compact">
+  <img width="880px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leveeer&theme=vue-dark&layout=compact">
 </a>
