@@ -11,14 +11,14 @@
 - 🏃‍♂️ 喜交友，恶人不诚不正
 
 <a href="https://github.com/leveeer">
-  <img align="center" width="880px" src="https://github-profile-trophy.vercel.app/?username=leveeer&column=7&theme=onedark"/>
+  <img align="center" width="680px" src="https://github-profile-trophy.vercel.app/?username=leveeer&column=7&theme=onedark"/>
 </a>
 
 
 <a href="https://github.com/leveeer">
-   <img width="880px" height="200px" src="https://github-readme-stats.vercel.app/api?username=leveeer&theme=vue-dark&count_private=true&show_icons=true">
+   <img width="680px" src="https://github-readme-stats.vercel.app/api?username=leveeer&theme=vue-dark&count_private=true&show_icons=true">
 </a>
 
 <a href="https://github.com/leveeer">
-  <img width="880px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leveeer&theme=vue-dark&layout=compact">
+  <img width="680px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leveeer&theme=vue-dark&layout=compact">
 </a>
